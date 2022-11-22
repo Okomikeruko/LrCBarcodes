@@ -15,6 +15,6 @@ Included in this repo is the raw `.LrDevPlugin` file that essencially
 recreates the features of the original to the best of my ability.
 
 You should be able to download it and install it the same way any 
-Lightroom Classic plugins are installed, via `File > Plug-in Manager`,
-Command + Option + Shift + `,` (comma) on MacOS, 
-or Ctrl + Alt + Shift + `,` (comma) on Windows
+Lightroom Classic plugins are installed, via **File > Plug-in Manager**,
+Command + Option + Shift + , (comma) on MacOS, 
+or Ctrl + Alt + Shift + , (comma) on Windows
