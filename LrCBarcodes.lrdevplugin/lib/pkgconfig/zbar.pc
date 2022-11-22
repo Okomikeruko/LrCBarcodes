@@ -1,0 +1,11 @@
+prefix=/Users/petersenwestimac4/Documents/LRCBarcodes/LrCBarcodes.lrdevplugin
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: zbar
+Description: bar code scanning and decoding
+URL: http://zbar.sourceforge.net
+Version: 0.10
+Libs: -L${libdir} -lzbar
+Cflags: -I${includedir}
